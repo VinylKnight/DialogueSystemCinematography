@@ -775,6 +775,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.y
       value: -70.6058
       objectReference: {fileID: 0}
+    - target: {fileID: 11447654, guid: e7a77adaa6b9c584bbace0646e8d049a, type: 3}
+      propertyPath: conversation
+      value: Emerngency alert
+      objectReference: {fileID: 0}
     - target: {fileID: 400050, guid: e7a77adaa6b9c584bbace0646e8d049a, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
