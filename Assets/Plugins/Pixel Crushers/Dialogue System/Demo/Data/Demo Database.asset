@@ -3058,7 +3058,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: The General has been looking for you all over. There seems to be an
+        value: The Sergeant has been looking for you all over. There seems to be an
           emergency alert for new personnel.
         type: 0
         typeString: 
@@ -3148,7 +3148,9 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: 'Camera(Closeup);
+
+          {{default}}'
         type: 0
         typeString: 
       conversationID: 7
@@ -3205,7 +3207,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Use the terminal to check for a message from the General.
+        value: Use the terminal to check for a message from the Sergeant.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -3221,7 +3223,9 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: 'Camera(Terminal Camera Angle);
+
+          {{default}}'
         type: 0
         typeString: 
       conversationID: 7
@@ -3245,7 +3249,7 @@ MonoBehaviour:
         y: 337
         width: 160
         height: 30
-    canvasScrollPosition: {x: 0, y: 178.64952}
+    canvasScrollPosition: {x: 0, y: 72.07063}
     canvasZoom: 0.7600004
   - id: 8
     fields:
